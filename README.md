@@ -16,14 +16,15 @@ Current Security Settings will get listed (out put) in the file "ESXi.txt"
 
 4. Connect to vCenter server (run below commands)
 
-$ Add-PSSnapin VMware.VimAutomation.Core
-$ Connect-VIServer -Server <vCenter server>
+   $ Add-PSSnapin VMware.VimAutomation.Core
+
+   $ Connect-VIServer -Server <vCenter server>
 
 5. Run the script
 
 6. Open the output file to check the results
   
-$ notepad ESXi.txt
+  $ notepad ESXi.txt
 
 7. Update non-compliance setting on ESXi server if there is any 
 
