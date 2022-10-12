@@ -23,8 +23,8 @@ Current Security Settings will get listed (out put) in the file "ESXi.txt"
 5. Run the script
 
 6. Open the output file to check the results
-  
-  $ notepad ESXi.txt
-
+   
+   $ notepad ESXi.txt
+   
 7. Update non-compliance setting on ESXi server if there is any 
 
