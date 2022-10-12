@@ -1,4 +1,4 @@
-# Get ESXi65 Hardening
+# Get ESXi 6.5 Hardening
 
 This powershell script will extract security settings for the Vmware ESXi 6.5 Servers
 
