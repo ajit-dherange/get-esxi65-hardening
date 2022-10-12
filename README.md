@@ -8,7 +8,7 @@ Current Security Settings will get listed (out put) in the file "ESXi.txt"
 
 # How To .....
 
-1. Download powershell script (Get-ESXi_65-Hardening-v3) and hosts list file (hosts.txt)
+1. Download powershell script (Get-ESXi_65-Hardening-v3.ps1) and hosts list file (hosts.txt)
 
 2. Update host file path in the first line of the script (E:\scripts\Get-ESXi_Hardening-Host\hosts.txt) 
 
