@@ -18,7 +18,7 @@ Current Security Settings will get listed (out put) in the file "ESXi.txt"
 
    $ Add-PSSnapin VMware.VimAutomation.Core
 
-   $ Connect-VIServer -Server <vCenter server>
+   $ Connect-VIServer -Server vCenter_server
 
 5. Run the script
 
